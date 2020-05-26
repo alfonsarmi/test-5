@@ -172,6 +172,19 @@ var persona = {
        return this.nombre + " " + this.apellido;
     }
 	
+	
+var persona2 = {
+    nombre: "Juana",
+    apellido : "Calamidad",
+    nombreCompleto : function() {
+       return this.nombre + " " + this.apellido;
+    }var persona = {
+    nombre: "Juana",
+    apellido : "Calamidad",
+    nombreCompleto2 : function() {
+       return this.nombre + " " + this.apellido;
+    }
+	
 var personatest = persona.nombreCompleto();
 
 function personar(nombre,apellido,edad,colorOjos) {
