@@ -3,7 +3,7 @@
 // Life, Universe, and Everything
 // Life, Universe, and Everything
 
-class Test
+class Test 
 {
 	while (1 == 1)
 	{
@@ -14,6 +14,28 @@ class Test
 	for (int i = 0; i++; i <0)
 	{
 		i++;
+		
+	}
+	
+	if (2=2)
+	{	
+		if (2=2)
+		{
+			if (2=2)
+			{
+				
+							
+				if (2=2)
+				{
+					if (2=2)
+					{
+						
+						
+					}
+					
+				}
+			}
+		}
 		
 	}
 	
