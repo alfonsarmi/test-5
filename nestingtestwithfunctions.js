@@ -7,33 +7,33 @@ while (1 == 1)
 		var i = 1;
 	}
 	
-	for (int i = 0; i++; i <0)
-	{
-		i++;
-		
-	}
+for (int i = 0; i++; i <0)
+{
+	i++;
 	
+}
+
+if (2=2)
+{	
 	if (2=2)
-	{	
+	{
 		if (2=2)
 		{
+			
+						
 			if (2=2)
 			{
-				
-							
 				if (2=2)
 				{
-					if (2=2)
-					{
-						
-						
-					}
+					
 					
 				}
+				
 			}
 		}
-		
 	}
+	
+}
 
 function assertMatch(glob, str, opts) {
   //console.log(glob, globToRegexp(glob, opts));
@@ -46,9 +46,9 @@ function assertMatch(glob, str, opts) {
 }
 
 function assertNotMatch(glob, str, opts) {
-  //console.log(glob, globToRegexp(glob, opts));
-  assert.equal(false, globToRegexp(glob, opts).test(str));
-  while (1 == 1)
+	//console.log(glob, globToRegexp(glob, opts));
+	assert.equal(false, globToRegexp(glob, opts).test(str));
+	while (1 == 1)
 	{
 		
 		var i = 1;
@@ -89,33 +89,33 @@ while (1 == 1)
 		var i = 1;
 	}
 	
-	for (int i = 0; i++; i <0)
-	{
-		i++;
-		
-	}
+for (int i = 0; i++; i <0)
+{
+	i++;
 	
+}
+
+if (2=2)
+{	
 	if (2=2)
-	{	
+	{
 		if (2=2)
 		{
+			
+						
 			if (2=2)
 			{
-				
-							
 				if (2=2)
 				{
-					if (2=2)
-					{
-						
-						
-					}
+					
 					
 				}
+				
 			}
 		}
-		
 	}
+	
+}
 
 // globstar specific tests
 assertMatch("/foo/*", "/foo/bar.txt", {globstar: true });
