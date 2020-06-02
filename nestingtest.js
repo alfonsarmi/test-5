@@ -5,6 +5,8 @@
 
 class Test 
 {
+	
+	//CUCU
 	while (1 == 1)
 	{
 		
@@ -27,11 +29,7 @@ class Test
 							
 				if (2=2)
 				{
-					if (2=2)
-					{
-						
-						
-					}
+					
 					
 				}
 			}
